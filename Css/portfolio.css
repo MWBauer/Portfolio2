@@ -1,0 +1,72 @@
+body {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4oIyPhwRod_Pi4HNj9kmxXfx6GVOf9sDwrM0cFfoSVjc_yRmsw");
+  background-size: contain;
+  background-repeat: repeat;
+  background-position: center;
+  /*margin: 10px;*/
+  }
+
+.black-text {
+  color: black;
+  font-size: 70px;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: "Impact", Charcoal, sans-serif;
+  text-align: center;
+  }
+
+h2 {
+  color: yellow;
+  font-size: 60px;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p {color: #b1390a;
+font-size: 30px;}
+
+li {color: #808000;
+    font-size: 20px;}
+
+.larger {
+  font-size: 40px;
+  color: #b8460b;
+  text-align: center;
+}
+
+.black-box {
+  background-color: black;
+  padding: 10px;
+  margin-left: 720px;
+  margin-right: 720px;
+}
+
+.fbpad {
+  padding-right: 20px;
+}
+
+.button-size {
+  font-size: 20px;
+  color: black;
+}
+
+.floating-menu {
+    font-family: sans-serif, monospace;
+    background: #0000ff;
+    padding: 5px;;
+    width: 130px;
+    z-index: 200;
+    position: fixed;
+    bottom: 300px;
+    right: 0px;
+}
+
+.floating-menu a,
+  .floating-menu h3 {
+    font-size: 0.9em;
+    display: block;
+    margin: 0 0.5em;
+    color: white;
+  }
+  
